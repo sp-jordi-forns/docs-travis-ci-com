@@ -10,7 +10,8 @@ swiftypetags:
 
 ## What This Guide Covers
 
-<aside markdown="block" class="ataglance">
+<aside markdown="block"
+class="ataglance">
 
 | Go                                          | Default                                                      |
 |:--------------------------------------------|:-------------------------------------------------------------|
